@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'personified_uxregular';
-    src: url('personifieduxregular-webfont.woff2') format('woff2'),
-         url('personifieduxregular-webfont.woff') format('woff');
+    src: url('https://github.com/Gabrielspr/font23/blob/main/personifieduxregular-webfont.woff2?raw=true') format('woff2'),
+         url('https://github.com/Gabrielspr/font23/blob/main/personifieduxregular-webfont.woff?raw=true) format('woff');
     font-weight: normal;
     font-style: normal;
 
